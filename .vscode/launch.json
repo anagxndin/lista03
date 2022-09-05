@@ -1,0 +1,77 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch cambio",
+            "request": "launch",
+            "mainClass": "ex9.cambio",
+            "projectName": "lista03_63882bb8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Empregadomain",
+            "request": "launch",
+            "mainClass": "ex8.Empregadomain",
+            "projectName": "lista03_63882bb8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Diabetes",
+            "request": "launch",
+            "mainClass": "Diabetes",
+            "projectName": "lista03_63882bb8"
+        },
+        {
+            "type": "java",
+            "name": "Launch SenhaFixa",
+            "request": "launch",
+            "mainClass": "SenhaFixa",
+            "projectName": "lista03_63882bb8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "lista03_63882bb8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Crescente",
+            "request": "launch",
+            "mainClass": "Crescente",
+            "projectName": "lista03_63882bb8"
+        },
+        {
+            "type": "java",
+            "name": "Launch IdadeMedia",
+            "request": "launch",
+            "mainClass": "IdadeMedia",
+            "projectName": "lista03_63882bb8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mercearia",
+            "request": "launch",
+            "mainClass": "Mercearia",
+            "projectName": "lista03_63882bb8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pagamento",
+            "request": "launch",
+            "mainClass": "Pagamento",
+            "projectName": "lista03_63882bb8"
+        }
+    ]
+}
